@@ -3,6 +3,8 @@
 This project aims to develop a machine learning model that can accurately classify human emotions based on facial expressions.  
 Additionally, a second model has also been trained, for recognising if an image is a human face or not, for potential use in conjunction with the initial emotion recognition model.  
   
+Languages used: Python (Jupyter Notebook) - TensorFlow and Scikit-learn  
+  
 <img src="images/emotion_ML.jpg"/>
   
 </br>  
